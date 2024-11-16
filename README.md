@@ -1,5 +1,9 @@
 # React + Vite
-<h1>Password Generator<h1/>
+
+-Password Generator
+<br>
+Author :- Sriram Sahoo
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

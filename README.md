@@ -1,6 +1,6 @@
 # React + Vite
 
--Password Generator
+<b> Password Generator
 <br>
 Author :- Sriram Sahoo
 
